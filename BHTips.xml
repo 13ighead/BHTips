@@ -1,0 +1,20 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="resource\init.lua" />
+
+	<Script file="resource\locales\chinese.lua" />
+
+	<Script file="resource\utility.lua" />
+
+	<Script file="resource\ui\native.lua" />
+
+	<Script file="resource\slash.lua" />
+
+	<Script file="resource\widget\widget_abstract.lua" />
+	
+	<Script file="resource\widget\health.lua" />
+	<Script file="resource\widget\resource.lua" />
+	<Script file="resource\widget\cooldown.lua" />
+	<Script file="resource\widget.lua" />
+	
+	<Script file="resource\main.lua" />
+</Ui>

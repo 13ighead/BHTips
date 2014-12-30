@@ -1,0 +1,9 @@
+## Interface: 60000
+## Title: BHTips 
+## Notes: Something Monitor 
+## Notes-zhCN: 帮助你去监视一些东西
+## Author: BH
+## DefaultState: Enabled 
+## Version: 0.0.1 
+
+BHTips.xml
